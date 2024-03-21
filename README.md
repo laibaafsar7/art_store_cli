@@ -1,5 +1,6 @@
-# ruby-cli-template
+# Art Store
 
-Use this repository as a template for your Ruby CLI (command line interface) project.
+Art Store is a simple command-line interface (CLI) application that allows users to manage a collection of artworks. Users can add artworks to the collection and view the current collection.
 
-- Ruby version: `3.2.1`
+# Usage
+Run ruby app.rb in the terminal
